@@ -1,0 +1,100 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 12pt;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+    background: white url(http://st.depositphotos.com/1828227/2830/v/950/depositphotos_28302499-stock-illustration-green-and-white-leaves-seamless.jpg);
+    text-align: center;
+}
+
+p {
+    color:darkcyan;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: serif, Georgia, "Times New Roman", Times;
+    font-size: 2em;
+    color: maroon;
+    background-color:goldenrod;
+    height: 50px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    letter-spacing: 10px;
+}
+
+h2 {
+    font-family: serif, Georgia, "Times New Roman", Times;
+    font-size: 20pt;
+    font-style: italic;
+    color: olive;
+}
+
+h3 {
+    font-size: 1.5em;
+    background-color: rosybrown;
+    color: indigo;
+    text-align: center;
+    margin: 5px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-style: normal;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    text-align: 150px;
+}
+
+div {
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+footer {
+	position: absolute;
+	bottom: 700px;
+	margin-left: 350px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	height: 57px;
+	width: 252px;
+	text-align: center;
+	padding-top: 15px;
+	padding-right: 40px;
+}
+
+.intro {
+    font-family: serif, Georgia, "Times New Roman", Times;
+    font-size: 12pt;
+    color: brown;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 5px;
+    letter-spacing: 5px;
+    font-weight: italic;
+}
+
+.summary {
+    font-family: serif, Georgia, "Times New Roman", Times;
+    font-size: 12pt;
+    color: green;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 5px;
+    letter-spacing: 5px;
+    font-weight: italic;
+}
+
+.design-selection {
+    color: #333333;
+	background-image: url(menu-back.png);
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+}
